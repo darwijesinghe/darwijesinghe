@@ -10,7 +10,7 @@
 
 I've been working as a software developer since 2018. Over the years, I've gained valuable experience collaborating with both local and international clients.
 
-Initially, I focused on Desktop application development before transitioning to Web application development a few years ago. Throughout my career, I've worked on numerous repository across diverse industries such as Pharmaceuticals, Travel, Retail, Wholesale, Distribution, Restaurants, and Property management.
+Initially, I focused on Desktop application development before transitioning to Web application development a few years ago. Throughout my career, I've worked on numerous repositories across diverse industries, including Pharmaceuticals, Travel, Retail, Wholesale, Distribution, Restaurants, and Property Management.
 
 As an engineer, Passionate about solving complex problems and continuously learning new technologies.
 
@@ -18,7 +18,7 @@ As an engineer, Passionate about solving complex problems and continuously learn
 
 ### 🧰 Tech Stack
 
-.NET | .NET Core | ASP.NET | C# | EF | WCF | MSSQL | MySQL | NoSQL | REST APIs | Azure | Git / TFS | MSTest | xUnit
+.NET | .NET Core | ASP.NET | ASP.NET Core | EF | WCF | MSSQL | MySQL | NoSQL | REST APIs | Azure | Git / TFS | MSTest | xUnit
 
 ---
 
@@ -35,5 +35,3 @@ As an engineer, Passionate about solving complex problems and continuously learn
 - 💼 [LinkedIn](https://www.linkedin.com/in/darwijesinghe/)
 - 🌐 [Portfolio](https://darwijesinghe.github.io/)
 - 📂 Explore my repositories to see my latest work and contributions!
-
----
