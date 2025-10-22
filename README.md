@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Darshana</h1>
 
 <p align="left">
-  <em>Senior Software Engineer | .NET | .NET Core | Azure</em>
+  <em>Senior .NET Engineer</em>
 </p>
 
 ---
