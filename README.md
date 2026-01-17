@@ -22,14 +22,6 @@ As an engineer, Passionate about solving complex problems and continuously learn
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="leftt">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwijesinghe&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/darwijesinghe/)
